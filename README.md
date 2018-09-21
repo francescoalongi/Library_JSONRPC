@@ -9,7 +9,7 @@ In order to have a general view of the entire project, here is the class diagram
 As seen in the previous image, there are three packages. The "channel.library" package has an interface which can be implemented by any kind of messaging library.
 
 ## Usage
-To know how to use this library, check the three java files in the src folder.
+To know how to use this library, check the three java files ('ClassWithMethods', 'ClientMain', 'ServerMain') in the src folder.
 
 ## References
 [JSON-RPC](https://www.jsonrpc.org/)
